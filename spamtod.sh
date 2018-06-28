@@ -1,1 +1,27 @@
-IyEvc3lzdGVtL3hiaW4vYmFzaAoKY2xlYXIKc2xlZXAgMQplY2hvICIiCmVjaG8gIlwwMzNbMzE7MW1UT09MbnlhIGJhbnlhayA6KSIKc2xlZXAgMQpjbGVhciAKZWNobyAiIgplY2hvICJcMDMzWzMyOzFtPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iCmVjaG8gIiAgIFwwMzNbMzM7MW1BdXRob3JcMDMzWzM3OzFtIDg9PURcMDMzWzM2OzFtIE1hbnRvZWQiCmVjaG8gIiAgIFwwMzNbMzM7MW1GZWF0XDAzM1szNzsxbSAgICAgOD09RFwwMzNbMzY7MW0gUDQ3UjFLMjEiCmVjaG8gIiAgIFwwMzNbMzM7MW1UZWFtXDAzM1szNzsxbSAgICA4PT1EXDAzM1szNjsxbSBEYXJrbmVzcyBDeWJlciBUZWFtIgplY2hvICJcMDMzWzMyOzFtPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iCmVjaG8gIiIKZWNobyAiICAgXDAzM1szMTsxbTFcMDMzWzM3OzFtLlwwMzNbMzY7MW0gU3BhbSBMZWdlbmQgOikiCmVjaG8gIiIKZWNobyAiXDAzM1szMjsxbSDilIDilIA+IFwwMzNbMzM7MW0gUGlsaWggTm9tb3IhXDAzM1szMjsxbSIKcmVhZCBrb2VudG9lbAppZgpbICRrb2VudG9lbCA9IDEgXSB8fCBbICRrb2VudG9lbCA9IDEgXQp0aGVuCmNsZWFyCmVjaG8gIlwwMzNbMzE7MW0iCmZpZ2xldCAiU3BhbVRvZCIKcGhwIGFzdS5waHAKZmk=
+#!/system/xbin/bash
+
+clear
+sleep 1
+echo ""
+echo "\033[31;1mTOOLnya banyak :)"
+sleep 1
+clear 
+echo ""
+echo "\033[32;1m====================================================="
+echo "   \033[33;1mAuthor\033[37;1m 8==D\033[36;1m Mantoed"
+echo "   \033[33;1mFeat\033[37;1m     8==D\033[36;1m P47R1K21"
+echo "   \033[33;1mTeam\033[37;1m    8==D\033[36;1m Darkness Cyber Team"
+echo "\033[32;1m====================================================="
+echo ""
+echo "   \033[31;1m1\033[37;1m.\033[36;1m Spam Legend :)"
+echo ""
+echo "\033[32;1m ──> \033[33;1m Pilih Nomor!\033[32;1m"
+read koentoel
+if
+[ $koentoel = 1 ] || [ $koentoel = 1 ]
+then
+clear
+echo "\033[31;1m"
+figlet "SpamTod"
+php asu.php
+fi
