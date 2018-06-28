@@ -21,7 +21,7 @@ if
 [ $koentoel = 1 ] || [ $koentoel = 1 ]
 then
 clear
-echo "\033[31;1m"
+echo "\033[36;1m"
 figlet "SpamTod"
 php asu.php
 fi
